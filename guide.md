@@ -1,4 +1,4 @@
-<h1>Official Roblox Style Script Guide</h1>
+# Official Roblox Style Script Guide
 
 
 https://www.roblox.com/library/6149121433/StyleScript
