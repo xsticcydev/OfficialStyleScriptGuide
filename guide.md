@@ -3,13 +3,9 @@
 
 https://www.roblox.com/library/6149121433/StyleScript
 
-If you haven’t installed the plugin yet, install it first!
+**If you haven’t installed the plugin yet, install it first!
 
-
-
-Open the script editor:
-Go to the ‘Plugins’ tab
-
-Click on the ‘Script Editor’ button
-
-The script editor should show up now
+1) Open the script editor:
+2) Go to the ‘Plugins’ tab
+3) Click on the ‘Script Editor’ button
+4) The script editor should show up now
