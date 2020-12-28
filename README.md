@@ -122,7 +122,7 @@ So we check of the offset(pixel) size on the X axis is bigger than 200 then we a
 * OFFSET_POS_X (the object's offset(pixel) position on the X axis)
 * OFFSET_POS_Y (the object's offset(pixel) position on the Y axis)
 * SCALE_POS_X (the object's scale position on the X axis)
-* SCALE_POS_Y (the object's scale position on the Y axis)
+* SCALE_POS_Y (the object's scale position on the Y axis) \
 
 **Statement types**
 * = (if *statement property* is equal to *statement value*)(for any)
