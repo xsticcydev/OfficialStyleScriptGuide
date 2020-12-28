@@ -41,13 +41,13 @@ https://www.roblox.com/library/6149121433/StyleScript
    
    Next we have a : symbol and after that we have the *state*
    We have three states in StyleScript:
-      default
-      hover
-      active
+      * default
+      * hover
+      * active
    Also, we can write them down with numbers too:
-      0,
-      1,
-      2
+      * 0
+      * 1
+      * 2
    
    **After the first line**
    
