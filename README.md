@@ -137,6 +137,8 @@ So we check of the offset(pixel) size on the X axis is bigger than 200 then we a
 * bg : BackgroundColor3
 * border-color : BorderColor3
 * border-size : BorderSizePixel
+* **Special properties**
+* transition : For tweening
 * **Classes**
 * button : TextButton
 * btn : TextButton
