@@ -136,7 +136,10 @@ So we check of the offset(pixel) size on the X axis is bigger than 200 then we a
 * **Properties**
 \
 ![image](https://user-images.githubusercontent.com/50070707/103236467-47235100-4945-11eb-90b0-c955a4221161.png)
-\
+
+RGB value syntax: (r(0-255),g(0-255),b(0-255)) (for any color modification)
+Vector2 value syntax: (x,y) (for size and position modification)
+
 * **Special properties**
 * transition : For tweening
 * **Classes**
