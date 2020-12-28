@@ -88,14 +88,14 @@ If don't, please read the guide again.
 If you do understand the code you can try yourself at the Advanced Level StyleScript
 
 ## Advanced Level
-(Warning: at advanced level styling we will use 'shortcuts'! You should read them before learning Advanced Level)
+(Warning: at advanced level styling we will use 'shortcuts'! You should read them before learning Advanced Level) \
 **Statements**
 Yes, you heard it right! We can have statements in our styles!
 See an example:
 ```
-_btn:default $OFFSET_SIZE_X > 200
+_btn:0 $OFFSET_SIZE_X > 200
 bg:(255,0,0);
-end _btn:default
+end _btn:0
 ```
 What this code does?
 It changes all of the TextButtons background color to the RGB color 255,0,0 IF the button's offset(pixel) size on the X axis is bigger than 200
