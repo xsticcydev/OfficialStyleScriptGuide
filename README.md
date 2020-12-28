@@ -109,7 +109,7 @@ OFFSET_SIZE_X > 200
 First we have our *statement property*.
 After we have the *statement type*.
 And last we have the *statement value*(anything).
-So we check of the offset(pixel) size on the X axis is bigger than 200 then we approve the styles on the object.
+So we check of the offset(pixel) size on the X axis is bigger than 200 then we approve the styles on the object. \
 **Statement properties**
 * NAME (the object's name)
 * Z_INDEX (the object's ZIndex)
