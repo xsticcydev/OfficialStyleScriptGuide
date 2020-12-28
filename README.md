@@ -43,7 +43,7 @@ https://www.roblox.com/library/6149121433/StyleScript
    We have three states in StyleScript:
    * default
    * hover
-   * active
+   * active \
    Also, we can write them down with numbers too:
    * 0
    * 1
