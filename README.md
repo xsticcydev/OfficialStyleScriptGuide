@@ -54,7 +54,7 @@ https://www.roblox.com/library/6149121433/StyleScript
    After the first line, the *properties* come in.
    There are a lot of properties we can change, in this case we change the background color.
    
-   Before the : symbol we have our *property*. (List of all the properties and their 'shortcuts' at the bottom of this Guide)
+   Before the : symbol we have our *property*. (List of all the shortcuts of the properties at the bottom of this Guide)
    
    After that we have our *value*. In most of the cases it's just a number or a string.
    But in this case we have a RGB value. The syntax of a RGB value is: (r(0-255),g(0-255),b(0-255))
