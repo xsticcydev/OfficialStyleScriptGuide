@@ -89,7 +89,7 @@ If you do understand the code you can try yourself at the Advanced Level StyleSc
 
 ## Advanced Level
 (Warning: at advanced level styling we will use 'shortcuts'! You should read them before learning Advanced Level) \
-**Statements**
+**Statements** \
 Yes, you heard it right! We can have statements in our styles! \
 See an example:
 ```
