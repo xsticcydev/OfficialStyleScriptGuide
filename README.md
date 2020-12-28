@@ -20,7 +20,7 @@ https://www.roblox.com/library/6149121433/StyleScript
 ![image](https://user-images.githubusercontent.com/50070707/103181827-c9f4cf00-48a5-11eb-9f48-0c96e3638be8.png)
 
 **Create your first script**
-1) Type:
+   Type:
    ```
    _btn:default
    bg:(255,200,200);
@@ -72,3 +72,78 @@ https://www.roblox.com/library/6149121433/StyleScript
    end _frame:hover
    ```
    See? We just wrote 'end ' + *definition*
+   
+**See an example of longer code**
+```
+_btn:default
+bg:(255,255,255);
+end _btn:default
+
+_btn:hover
+bg:(255,200,200);
+end _btn:hover
+```
+Do you understand this code?
+If don't, please read the guide again.
+If you do understand the code you can try yourself at the Advanced Level StyleScript
+
+## Advanced Level
+(Warning: at advanced level styling we will use 'shortcuts'! You should read them before learning Advanced Level)
+**Statements**
+Yes, you heard it right! We can have statements in our styles!
+See an example:
+```
+_btn:default $OFFSET_SIZE_X > 200
+bg:(255,0,0);
+end _btn:default
+```
+What this code does?
+It changes all of the TextButtons background color to the RGB color 255,0,0 IF the button's offset(pixel) size on the X axis is bigger than 200
+Okay, what happens here?
+We will only focus on the first line.
+First, always write our statement after a $ symbol!
+**How to build up a statement?**
+```
+OFFSET_SIZE_X > 200
+```
+First we have our *statement property*.
+After we have the *statement type*.
+And last we have the *statement value*(anything).
+So we check of the offset(pixel) size on the X axis is bigger than 200 then we approve the styles on the object.
+**Statement properties**
+* NAME (the object's name)
+* Z_INDEX (the object's ZIndex)
+
+* OFFSET_SIZE_X (the object's offset(pixel) size on the X axis)
+* OFFSET_SIZE_Y (the object's offset(pixel) size on the Y axis)
+* SCALE_SIZE_X (the object's scale size on the X axis)
+* SCALE_SIZE_Y (the object's scale size on the Y axis)
+
+* OFFSET_POS_X (the object's offset(pixel) position on the X axis)
+* OFFSET_POS_Y (the object's offset(pixel) position on the Y axis)
+* SCALE_POS_X (the object's scale position on the X axis)
+* SCALE_POS_Y (the object's scale position on the Y axis)
+
+**Statement types**
+* = (if *statement property* is equal to *statement value*)(for any)
+* > (if *statement property* is bigger *statement value*)(for numbers)
+* < (if *statement property* is less *statement value*)(for numbers)
+* contains (if *statement property* contains *statement value*)(for strings)
+
+## Shortcuts
+* **Properties**
+* bg : BackgroundColor3
+* border-color : BorderColor3
+* border-size : BorderSizePixel
+* **Classes**
+* button : TextButton
+* btn : TextButton
+* input : TextBox
+* lbl : TextLabel
+* label : TextLabel
+* imglbl : ImageLabel
+* imgbtn : ImageButton
+* **States**
+* 0 : default
+* 1 : hover
+* 2 : active
