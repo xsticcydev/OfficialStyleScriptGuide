@@ -128,7 +128,7 @@ So we check of the offset(pixel) size on the X axis is bigger than 200 then we a
 
 **Statement types**
 * = (if *statement property* is equal to *statement value*)(for any)
-* > (if *statement property* is bigger *statement value*)(for numbers)
+* \> (if *statement property* is bigger *statement value*)(for numbers)
 * < (if *statement property* is less *statement value*)(for numbers)
 * contains (if *statement property* contains *statement value*)(for strings)
 
@@ -165,6 +165,6 @@ So we check of the offset(pixel) size on the X axis is bigger than 200 then we a
 
 * **Statement types**
 * = (if *statement property* is equal to *statement value*)(for any)
-* > (if *statement property* is bigger *statement value*)(for numbers)
+* \> (if *statement property* is bigger *statement value*)(for numbers)
 * < (if *statement property* is less *statement value*)(for numbers)
 * contains (if *statement property* contains *statement value*)(for strings)
